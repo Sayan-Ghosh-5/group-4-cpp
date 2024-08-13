@@ -16,7 +16,7 @@ T findMax(T a, T b, T c) {
 
 int main() {
    
-    int a = 5, b = 9, c = 3;
+    int a = 5, b = 10, c = 3;
     std::cout << "The largest integer is: " << findMax(a, b, c) << std::endl;
 
     double x = 5.7, y = 9.1, z = 3.4;
